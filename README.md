@@ -1,1 +1,1 @@
-# Medical_Image_Registration
+# Medical Image Registration
