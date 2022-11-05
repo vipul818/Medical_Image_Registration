@@ -10,4 +10,7 @@
 
 
 ## 1. Create thumbnail of the image
+   [Create thumbnail](https://github.com/vipul818/Medical_Image_Registration/blob/main/create_thumbnail.ipynb).
+
+
 ## 2. Perform SIFT operation
