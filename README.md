@@ -12,9 +12,9 @@ Image registration is the process of transforming different images of one scene 
 
 
 ## 1. Create thumbnail of the image
-<p>Since WSIs(whole slide images) can be very large in size(can go upto some gigabytes) it is difficult to read and explore their features. This can be done using <strong>openslide</strong>(Python library).
+<p>Since WSIs( whole slide images) can be very large in size(can go upto some gigabytes) it is difficult to read and explore their features. This can be done using <strong>openslide</strong>( Python library).
 It can be installed using the following command:</p>
-<mark>pip install openslide-python </mark>
+`pip install openslide-python`
 <p>For creating the thumbnail, we will: 
 <ol><li> Import required packages and functions
 <li> Read the image and explore the properties of it
