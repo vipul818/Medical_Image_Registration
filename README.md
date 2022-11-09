@@ -14,7 +14,7 @@ Image registration is the process of transforming different images of one scene 
 ## 1. Create thumbnail of the image
 <p>Since WSIs(whole slide images) can be very large in size(can go upto some gigabytes) it is difficult to read and explore their features. This can be done using <strong>openslide</strong>(Python library).
 It can be installed using the following command:</p>
-``` pip install openslide-python ```
+<mark>pip install openslide-python </mark>
 <p>For creating the thumbnail, we will: 
 <ol><li> Import required packages and functions
 <li> Read the image and explore the properties of it
@@ -31,5 +31,5 @@ For performing image registration, we will:
 <li> Create the SIFT function
 <li> Apply the created functions over the thumbnails
 </ol>
-   [Notebook for performing SIFT operation](https://github.com/vipul818/Medical_Image_Registration/blob/main/Image_Registration.ipynb).
 </p>
+<a href="https://github.com/vipul818/Medical_Image_Registration/blob/main/Image_Registration.ipynb">Notebook for performing SIFT operation</a>
