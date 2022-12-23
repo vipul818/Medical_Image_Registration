@@ -1,4 +1,5 @@
 # Medical Image Registration
+![Screenshot from 2022-12-23 18-56-57](https://user-images.githubusercontent.com/72666431/209343655-947a78e6-911c-4519-a4a8-9cae5d8af1b1.png)
 
 <p>This project is about performing image registration on whole slide images.
   
